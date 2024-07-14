@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../images/inte.jpg);
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: fill;
+}
+.c1 h1{
+    -webkit-text-fill-color: rgb(15, 111, 236);
+    text-align: center;
+}
+#container
+{
+width:80%;
+margin:0px auto;
+background-color: rgb(255, 255, 255);
+height: 1400px;
+}
+.p1
+{
+float:left;
+margin-right:2%;
+margin-left:20px;
+}
+.para1
+{
+color:rgb(14, 14, 14);
+margin-left:20px;
+margin-right:10px;
+margin-top: 10px;
+margin-bottom: 20px;
+font-size:25px;
+}
+.req{
+    margin-left:20px;
+    color: rgb(240, 5, 5);
+    margin-bottom: 20px;
+    text-align: center;
+}
+table {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 75%;
+  }
+  
+  th{
+    text-align: left;
+    padding: 8px;
+    font-style: bold;
+    font-size: 25px;
+  } 
+  td {
+    text-align: left;
+    padding: 8px;
+    font-size: 20px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #7ce4e4;
+  }
+.el{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(19, 136, 4);
+}
+.eli{
+margin-left:50px;
+margin-right:10px;
+margin-top: 20px;
+margin-bottom: 20px;
+font-size:25px;
+}
+.cq{
+    margin-left:50px;
+    margin-right:10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size:25px;
+    }
+.pro{
+  text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(141, 9, 235);
+}

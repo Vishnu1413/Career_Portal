@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../images/mic.jpg);
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: fill;
+}
+.c1 h1{
+    -webkit-text-fill-color: rgb(15, 111, 236);
+    text-align: center;
+}
+#container
+{
+width:80%;
+margin:0px auto;
+background-color: rgb(255, 255, 255);
+height: 1600px;
+}
+.p1
+{
+float:left;
+margin-right:2%;
+margin-left:20px;
+}
+.para1
+{
+color:rgb(14, 14, 14);
+margin-left:20px;
+margin-right:10px;
+margin-top: 10px;
+margin-bottom: 20px;
+font-size:25px;
+}
+.req{
+    margin-left:20px;
+    color: rgb(240, 5, 5);
+    margin-bottom: 20px;
+    text-align: center;
+}
+.t1 table {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 75%;
+  }
+  
+.t1 th{
+    text-align: left;
+    padding: 8px;
+    font-style: bold;
+    font-size: 25px;
+  } 
+.t1 td {
+    text-align: left;
+    padding: 8px;
+    font-size: 20px;
+  }
+  
+.t1 tr:nth-child(even) {
+    background-color: #7ce4e4;
+  }
+  .t2{
+    margin-top: 20px;
+  }
+.t2 table {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 75%;
+  }
+  
+.t2 th{
+    text-align: left;
+    padding: 8px;
+    font-style: bold;
+    font-size: 25px;
+  } 
+.t2 td {
+    text-align: left;
+    padding: 8px;
+    font-size: 20px;
+  }
+  
+.t2 tr:nth-child(even) {
+    background-color: #7ce49d;
+  }
+.el{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(19, 136, 4);
+}
+.eli{
+margin-left:50px;
+margin-right:10px;
+margin-top: 20px;
+margin-bottom: 20px;
+font-size:25px;
+}
+.cq{
+    margin-left:50px;
+    margin-right:10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size:25px;
+    }
+.reqi{
+    margin-left:20px;
+    color: rgb(240, 5, 189);
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 25px;
+}
